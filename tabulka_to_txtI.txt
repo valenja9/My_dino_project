@@ -1,0 +1,4 @@
+Jmeno,Prijmeni,Vek
+Petr,Novotny,45
+Hanka,Bila,33
+Sabima,Suchanova,11
